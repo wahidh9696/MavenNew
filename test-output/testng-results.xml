@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="56095" started-at="2021-02-14T08:18:08Z" finished-at="2021-02-14T08:19:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="56095" started-at="2021-02-14T08:18:08Z" finished-at="2021-02-14T08:19:04Z">
+      <class name="iberia.Main">
+        <test-method status="PASS" signature="launch()[pri:0, instance:iberia.Main@5e5792a0]" name="launch" is-config="true" duration-ms="10359" started-at="2021-02-14T08:18:08Z" finished-at="2021-02-14T08:18:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:iberia.Main@5e5792a0]" name="test1" duration-ms="45617" started-at="2021-02-14T08:18:18Z" finished-at="2021-02-14T08:19:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- iberia.Main -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
